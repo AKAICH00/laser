@@ -1,0 +1,12 @@
+{
+  "name": "laser-light-display",
+  "version": "1.0.0",
+  "description": "A web application that creates a dynamic lattice pattern of laser light",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
